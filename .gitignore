@@ -1,4 +1,0 @@
-backup
-src/*.o
-logs/*.log
-test_data/restored/
