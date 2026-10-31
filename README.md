@@ -1,4 +1,6 @@
-# Linux File Backup and Synchronization System Using System Calls
+# LINUX-SYSTEM-BACKUP-USING-SYSTEM-CALLS
+
+Linux File Backup and Synchronization System Using System Calls
 
 OSSP (25CS2104E) project for Team 24.
 
